@@ -1,20 +1,73 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📅 calendariosHabitos
 
-# Run and deploy your AI Studio app
+¡Bienvenido/a a **calendariosHabitos**!  
+Una aplicación pensada para ayudarte a crear, visualizar y mantener tus hábitos diarios de forma sencilla y motivadora.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1UmjmFFv98wwc0P1p0I9Sg0WYiXnbaL_W
+## 🚀 ¿Qué es calendariosHabitos?
 
-## Run Locally
+**calendariosHabitos** te permite llevar el control de tus rutinas y hábitos a través de calendarios visuales. Marca tus logros cada día y observa tu progreso a lo largo del tiempo. Ideal para retos personales, mejorar tu salud, estudiar, o cualquier meta que quieras alcanzar.
 
-**Prerequisites:**  Node.js
+---
+
+## ✨ Características principales
+
+- **Gestión de hábitos personalizada:** Crea y edita tus propios hábitos.
+- **Vista de calendario:** Visualiza tu progreso diario, semanal y mensual.
+- **Marcar días cumplidos:** Haz seguimiento visual de tus días exitosos.
+- **Interfaz moderna y fácil de usar.**
+- **100% privado:** Tus hábitos, solo para ti.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- [Tecnología principal: Angular]
+
+## 📥 Instalación y uso
+
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/rubengg00/calendariosHabitos.git
+   cd calendariosHabitos
+   ```
+2. **Instala las dependencias:**
+   ```bash
+   # Ejemplo para Node.js
+   npm install
+   ```
+   *(Modifica este paso según tu stack)*
+
+3. **Ejecuta la aplicación:**
+   ```bash
+   # Ejemplo para Node.js/React
+   npm start
+   ```
+   *(Modifica este paso según tu stack)*
+
+---
+
+## 🖼️ Captura de pantalla
+
+<img width="3124" height="1511" alt="image" src="https://github.com/user-attachments/assets/89fda18c-71c1-48ec-a17f-6677179d5543" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+---
+
+## 🤝 Contribuir
+
+¿Te gustaría mejorar calendariosHabitos?  
+¡Las contribuciones son bienvenidas! Puedes abrir issues o pull requests.
+
+---
+
+## 📩 Contacto
+
+Desarrollado por [rubengg00](https://github.com/rubengg00)  
+¿Tienes alguna sugerencia o consulta? ¡Abre un issue o escríbeme!
+
+---
+
+## ⭐ ¡Dale una estrella al proyecto si te gusta!
